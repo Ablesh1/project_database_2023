@@ -1,5 +1,4 @@
 # object-oriented-programming-project_2022
----------------------
 
 ### Authors:
 - [@Ablesh1](https://github.com/Ablesh1)

@@ -1,5 +1,5 @@
 # object-oriented-programming-project_2022
-Simple simulator of the activities of a bank, its employees and customers.
+Application for movie management
 
 ## Authors:
 - [@Ablesh1](https://github.com/Ablesh1)

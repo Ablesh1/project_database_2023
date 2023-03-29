@@ -6,4 +6,4 @@ Simple simulator of the activities of a bank, its employees and customers.
 - [@LeMeTwo](https://github.com/LeMeTwo)
 
 ## TechStack
-JavaScript, Jquery, HTML, CSS, Bootstrap, NodeJS
+JavaScript, Jquery, HTML, CSS, Bootstrap, NodeJS, PostgeSQL
